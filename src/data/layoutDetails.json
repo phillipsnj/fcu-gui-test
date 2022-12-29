@@ -1,0 +1,27 @@
+{
+  "layoutDetails": {
+    "title": "New Layout",
+    "subTitle": "Admin",
+    "nextNodeId": 4007,
+    "assignId": true
+  },
+  "nodeDetails": {
+    "1002": {
+      "name": "CANMIO",
+      "colour": "teal",
+      "group": ""
+    },
+    "4006": {
+      "name": "CANBED",
+      "colour": "red",
+      "group": ""
+    }
+  },
+  "eventDetails": {
+    "012C0009": {
+      "name": "Test Event",
+      "colour": "black",
+      "group": ""
+    }
+  }
+}
